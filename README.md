@@ -1,5 +1,5 @@
-# SHowWifiScript # Windows
-<h1 color="red">This is only for <b>WINDOWS</b> users</h1>
+#SHowWifiScript #Windows
+<h1 style="color:red">This is only for <b>WINDOWS</b> users</h1>
 
 <ol>
   <li>Install gnu compiler</li>
